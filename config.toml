@@ -5,7 +5,7 @@ title = "Infinity's space"
 # theme = "blackburn"
 theme = "manis-hugo-theme"
 
-builddrafts = true
+builddrafts = false
 canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
@@ -33,7 +33,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 github = "infinitylX"
-email = "you@infinitylx.org"
+email = "infinity89@gmail.com"
 linkedin = ""
 twitter = "infinitylX"
 social_banner = "img/banner.png"
