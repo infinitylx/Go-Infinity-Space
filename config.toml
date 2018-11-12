@@ -25,6 +25,7 @@ logofile = "img/logo.png"
 faviconfile = "img/logo.png"
 licenseURL = "/license"
 highlightjs = true
+HighlightJsStyle = "default"
 progressively = true
 align_left = false
 lang = "en"
