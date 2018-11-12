@@ -1,0 +1,50 @@
+baseURL = "http://infinitylx.org/"
+languageCode = "en-us"
+title = "Infinity's space"
+# theme = "cocoa-eh"
+# theme = "blackburn"
+theme = "manis-hugo-theme"
+
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Vladyslav Merezhko"
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon January 2 2006 15:04:05 MST"
+description = "Blog, photos and pet-projects."
+copyright = "Copyright © 2018 Infinitylx"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+licenseURL = "/license"
+highlightjs = true
+progressively = true
+align_left = false
+lang = "en"
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+github = "infinitylX"
+email = "you@infinitylx.org"
+linkedin = ""
+twitter = "infinitylX"
+social_banner = "img/banner.png"
+
+posts_navigation = true
+small_banner_logo = false
+latestpostcount = 5
+usesmallsummarycard = true
+
+# config for manis theme
+# Configure which section for Latest Posts
+postSection = "blog"
+# Configure which section for Latest Works
+# workSection = "pets"
