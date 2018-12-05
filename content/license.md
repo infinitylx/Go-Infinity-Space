@@ -1,7 +1,6 @@
 ---
 title: "license"
 lang: "en"
-draft: true
 ---
 
 # WTFPL
