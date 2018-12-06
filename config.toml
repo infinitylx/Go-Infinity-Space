@@ -17,7 +17,8 @@ pluralizelisttitles = false
 blog = "blog/:slug/"
 
 [params]
-dateform = "Jan 2, 2006"
+dateformat = "Jan 2, 2006"
+dateFmt = "2 January 2006"
 dateformfull = "Mon January 2 2006 15:04:05 MST"
 description = "Blog, photos and pet-projects."
 copyright = "Copyright © 2018 Infinitylx"
