@@ -173,10 +173,15 @@ ul.no-bullet {
   font-size: 1.8rem;
 }
 .no-bullet span {
-  display: none;
   font-size: 1.7rem;
   color: #666;
   font-family: monospace;
+  margin-right: 1rem;
+  display: inline;
+  float: left;
+  text-align: right;
+  width: 180px;
+  border-right: solid 1px red;
 }
 @media (min-width: 40rem) {
   .no-bullet span {
