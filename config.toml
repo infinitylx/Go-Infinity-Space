@@ -33,6 +33,7 @@ lang = "en"
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+DebugCSS = true
 
 github = "infinitylX"
 email = "infinity89@gmail.com"
