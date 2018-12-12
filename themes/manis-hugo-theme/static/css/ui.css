@@ -182,8 +182,7 @@ ul.no-bullet {
 @media (min-width: 40rem) {
   .no-bullet span {
     margin-right: 1rem;
-    display: inline;
-    float: left;
+    display: inline-block;
     text-align: right;
     width: 180px;
     border-right: solid 1px red;
