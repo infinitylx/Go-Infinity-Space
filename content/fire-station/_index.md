@@ -1,6 +1,6 @@
 ---
 title: "Fire Station"
-# menu: "main"
+menu: "main"
 ---
 
 # Under Construction
