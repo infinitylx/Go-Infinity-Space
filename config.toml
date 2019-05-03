@@ -21,7 +21,7 @@ dateformat = "Jan 2, 2006"
 dateFmt = "2 January 2006"
 dateformfull = "Mon January 2 2006 15:04:05 MST"
 description = "Blog, photos and pet-projects."
-copyright = "Copyright © 2018 Infinitylx"
+copyright = "Copyright © 2012-2019 Infinitylx"
 logofile = "img/logo.png"
 faviconfile = "img/logo.png"
 licenseURL = "/license"
@@ -34,6 +34,8 @@ lang = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 DebugCSS = true
+InterFont = true
+FiraCodeFont = true
 
 github = "infinitylX"
 email = "infinity89@gmail.com"
