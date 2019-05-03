@@ -55,8 +55,8 @@ html {
 body {
   font-size: 1.6em;
   line-height: 1.7;
-  font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-family: 'Inter', 'Lato', sans-serif;
   color: #444;
 }
 
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
   font-weight: 300;
   color: #222;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Inter', 'Raleway', sans-serif;
 }
 h1 {
   font-size: 3.2rem;
@@ -118,11 +118,12 @@ p { margin-top: 0; }
 }
 #brand h1 {
   margin-bottom: -.2rem;
-  font-weight: bold
+  font-weight: 200;
 }
 #brand h5 {
   color: #898989;
   margin-bottom: -.2rem;
+  font-weight: 200;
 }
 #related h3 {
   text-align: left;
@@ -175,7 +176,7 @@ ul.no-bullet {
 .no-bullet span {
   font-size: 1.7rem;
   color: #666;
-  font-family: monospace;
+  font-family: 'Fira Code', monospace;
   margin-right: 1rem;
   display: none;
 }
@@ -205,7 +206,7 @@ code {
   background: #f1f1f1;
   border: 1px solid #e1e1e1;
   border-radius: 4px;
-  font-family: 'Fira Mono', monospace;
+  font-family: 'Fira Code', monospace;
 }
 pre > code {
   display: block;
@@ -213,7 +214,7 @@ pre > code {
   white-space: pre-wrap;
   background: #2b303b;
   color: #c0c5ce;
-  font-family: 'Fira Mono', monospace;
+  font-family: 'Fira Code', monospace;
 }
 
 /* #Tables
@@ -274,6 +275,7 @@ blockquote cite a {
 .bar li {
   display: inline;
   font-size: 1.8rem;
+  font-weight: 100;
   margin-right: 1rem;
   margin-left: 0;
 }
