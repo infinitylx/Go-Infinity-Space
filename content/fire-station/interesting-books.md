@@ -8,7 +8,7 @@ date: 2019-02-03T12:39:47+02:00
 
 Some guy (Sergey Kryzhanowsky during his week as @backenddeveloper on twitter) presents list of awesome IT related books. Not those shortlived *"Learn language in NaN days."*, but more philosophic and abstract like like *"the art of computer programing"* or *"algorithms"*.
 
-And here is my copy (if anythings happens to the original my copy will survive). I have permission to do so 😉
+And here is my copy (if anything happens to the original my copy will survive). I have permission to do so 😉
 
 Here is a link to original blog post.
 
