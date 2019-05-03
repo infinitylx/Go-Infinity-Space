@@ -21,15 +21,20 @@
 		<link rel="stylesheet" href="{{ . }}"/>
 		{{ end }}
 
-		<link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono|Lato|Raleway">
+		{{ if .Site.Params.InterFont }}
+		<link rel="stylesheet" href="/fonts/Inter_wh/inter.css" />
+		{{ end }}
+
+		{{ if .Site.Params.FiraCodeFont }}
+		<link rel="stylesheet" href="/fonts/FiraCode/fira_code.css" />
+		{{ end }}
+		
+		<!-- <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono|Lato|Raleway"> -->
 
 		{{ if .Site.Params.HighlightJs }}
-		<link rel="stylesheet"
-      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/styles/{{- .Site.Params.HighlightJsStyle -}}.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
-		{{ range .Site.Params.HighlightJsLanguages }}
-		<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/languages/{{- . -}}.min.js"></script>
-		{{ end }}
+		<link rel="stylesheet" href="/css/highlight/default.css">
+		<script src="/js/highlight.pack.js"></script>
+		<script>hljs.initHighlightingOnLoad();</script>
 		{{ end }}
 
 		{{ partial "style" . }}
