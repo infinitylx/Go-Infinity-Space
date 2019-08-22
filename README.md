@@ -2,4 +2,4 @@
 
 My static blog & site.
 
-Mostly about me and some times about programming and linux.
+Mostly about me and sometimes about programming and linux.
