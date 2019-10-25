@@ -15,7 +15,7 @@ Born 1986 in city of Vinnitsa, Ukraine.
 Marital status single.
 
 - *Addres* Wroclaw Poland
-- *Web site* http://infinitylx.org
+- *Web site* https://infinitylx.org
 - *Telephone* +48 570 142 346
 - *E-mail* <madcatz@protonmail.com>
 - *Skype* inf1nitylx
@@ -220,6 +220,7 @@ Additional Education
 - *English* Advanced level. Fluent.
 - *Polish* Advanced level. Fluent.
 - *Ukrainian* Advanced level. Native.
+- *Russian* Advanced level. Native.
 
 ## Interests
 
