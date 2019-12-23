@@ -230,6 +230,7 @@ Additional Education
 - *English* Advanced level. Fluent.
 - *Polish* Advanced level. Fluent.
 - *Ukrainian* Advanced level. Native.
+- *Russian* Advanced level. Native.
 
 ## Interests
 
