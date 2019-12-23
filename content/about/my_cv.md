@@ -15,16 +15,16 @@ Born 1986 in city of Vinnitsa, Ukraine.
 Marital status single.
 
 - *Addres* Wroclaw Poland
-- *Web site* http://infinitylx.org
+- *Web site* https://infinitylx.org
 - *Telephone* +48 570 142 346
-- *E-mail* <madcatz@protonmail.com>
+- *E-mail* madcatz *at* protonmail *dot* com
 - *Skype* inf1nitylx
 
 ## Qualification Summary
 
 ### About
 
-I'm passionate about programming. I'm good at integrating different components and getting the best results of it.
+I'm passionate about programming. I'm good at integrating different components and getting the best result out of it.
 
 Also, I'm a team player and like to organize team work -- from complete integration of best practices of work flows with DCVS, continues integration, code review till automatic build process and running unit, and system tests. I fully possess concepts of OOP and functional programming and like to mix them for better performance.
 
@@ -35,7 +35,7 @@ And, by the way, I have two years of legacy code support. And I kinda like it ;-
 Operating System:
 
   * *Linux* OpenSuSE, Gentoo, Sabayon, Debian.
-  * *Microsoft WindowsTM* System 7, 10
+  * *Microsoft Windows* System 7, 10
 
 Programming language:
 
@@ -62,9 +62,19 @@ Office Automation:
 
 ## Experience
 
+**epam**
+
+*2019---current*
+
+Software engineer
+
+ToDo
+
+---
+
 **Gigaset**
   
-*2015---present*
+*2015---2019*
 
 Software engineer
 
@@ -190,10 +200,10 @@ This on-line service provide: on-line treatments booking system, on-line shop an
 Non-commercial projects:
 
  - e-commerce as a service. Using python, postgresql, nginx.
- - Python True password generator. Like mkpasswd. SaaS.
+ - Python True password generator. Like mkpasswd.
  - Python CSV parser: update mysql db with data from csv file.
  - Java Arcanoid game: build on Java applet technology. Using Thread to draw and position balls.
- - Java XML parser: update mysql db with data from xml file.
+ - Java XML parser: update mysql database with data from xml feed.
 
 ## Education
 
