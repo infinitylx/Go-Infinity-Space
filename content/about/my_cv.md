@@ -10,14 +10,9 @@ My name is *Vladyslav Merezko*.
 
 ## Personal Information
 
-Born 1986 in city of Vinnitsa, Ukraine.
-
-Marital status single.
-
-- *Addres* Wroclaw Poland
+- *Current Location* Wroclaw Poland
 - *Web site* https://infinitylx.org
-- *Telephone* +48 570 142 346
-- *E-mail* madcatz *at* protonmail *dot* com
+- *E-mail* infinitylx *at* infinitylx *dot* org
 - *Skype* inf1nitylx
 
 ## Qualification Summary
