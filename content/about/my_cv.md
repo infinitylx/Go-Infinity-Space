@@ -10,9 +10,9 @@ My name is *Vladyslav Merezko*.
 
 ## Personal Information
 
-- *Current Location* Wroclaw Poland
+- *Current Location* Wrocław Poland
 - *Web site* https://infinitylx.org
-- *E-mail* infinitylx *at* infinitylx *dot* org
+- *E-mail* infinitylx *at* live *dot* com
 - *Skype* inf1nitylx
 
 ## Qualification Summary
@@ -63,7 +63,7 @@ Office Automation:
 
 Software engineer
 
-ToDo
+Automation testing for asset managment swiss client. 
 
 ---
 
