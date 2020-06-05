@@ -4,7 +4,9 @@ date: 2020-06-05T11:32:34+02:00
 tags: ["rtfm", "alpha-century"]
 ---
 
-## Allways answer to the e-mails where you are in the "to:" field.
+## Allways answer.
+
+To the e-mails where you are in the "to:" field.
 
 Like always! No exceptions.
 
@@ -15,4 +17,10 @@ If you can't provide solution just provide estimations — when you will be able
 The worst thing you can do — is to keep silence. Which creates frustration. Poeple always fear of unknown.
 
 ## Provide all needed informatio.
+
+To create solution and get into context. Put links, attach files, etc. 
+
+## Use positive or neutral lexicon 
+
+Negative only produce anger. Not a solution. The best way for problems discussions is to provide few solutions. 
 
