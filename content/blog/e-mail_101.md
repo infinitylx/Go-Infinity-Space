@@ -24,3 +24,4 @@ To create solution and get into context. Put links, attach files, etc.
 
 Negative only produce anger. Not a solution. The best way for problems discussions is to provide few solutions. 
 
+And on the end I want to add qoute from gen. Mad dog Mattis: „Be polite, be professional, but have a plan to kill everybody you meet.”
