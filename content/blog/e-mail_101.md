@@ -169,4 +169,10 @@ body remains empty. This saves the recipient's time because they then do not hav
 
 *Y/N* -- meaning Yes/No. The recipient is informed that he should reply to this email with a simple yes or no answer, increasing the likelihood for the sender of getting a quick response.
 
-And on the end I want to add qoute from gen. Mad dog Mattis: „Be polite, be professional, but have a plan to kill everybody you meet.”
+And on the very end I want to add quote from Gen. Mad Dog Mattis:
+
+> „Be polite, be professional, but have a plan to kill everybody you meet.”
+
+PS: the best from [mad dog][mad].
+
+[mad]: https://freebeacon.com/national-security/the-best-from-mad-dog-mattis/
