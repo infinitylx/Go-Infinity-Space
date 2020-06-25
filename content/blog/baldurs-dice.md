@@ -21,6 +21,7 @@ The rules are as follows:
    If the total of their dice exceeds 21, they "bust" and are out of the game. 
    
    Otherwise they can keep rolling additional dice until they either stand or break.
+   
  * After everyone has had a turn, the highest point total (excluding players who busted) wins the game and takes the pot.
 
 ## Мой вольный перевод
@@ -30,10 +31,7 @@ The rules are as follows:
 Правила игры:
 
  * каждый игрок делает ставку формируя призовой фонд;
- * каждый игрок кидает три кости. 
-   
-   Игра движется по часовой стрелке вокруг стола, хост игры кидает последним.
-   
+ * каждый игрок кидает три кости. Игра движется по часовой стрелке вокруг стола, хост игры кидает последним.
  * На своем ходу, игрок может выбрать "пасовать" или "кидать". 
    
    Если игрок "пасует", игра переходить к следующему игроку. 
