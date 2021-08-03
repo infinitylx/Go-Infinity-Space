@@ -18,7 +18,7 @@ set -eu
 if [ $# != 0 ]; then
   echo "- Running $(hugo version)"
   echo "  with args: $@"
-  hugo -d ./www.new "$@"
+  hugo --config config.yaml -d ./www.new "$@"
   exit 0
 fi
 
@@ -39,12 +39,12 @@ fi
 
 # 2. Do the generation of the static web site.
 echo "- Running $(hugo version)"
-hugo -d ./www.new
+hugo -v --config config.yaml -d ./www.new
 
 
 # 3. Minify all the output in-place.
 echo "- Running minify"
-minify -r -a -o www.new www.new
+minify -r -v -a -o ./ ./www.new 
 
 
 # 4. Precompress all the minified files, so caddy can serve pre-compressed files

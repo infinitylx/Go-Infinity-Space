@@ -1,7 +1,8 @@
-+++
-title = "About"
-menu = "main"
-+++
+---
+title: "About"
+menu: "main"
+date: 2018-11-12T13:20:23
+---
 
 ## Biography
 
@@ -20,9 +21,5 @@ I prefer simplicity over complexity. The perfect solution can't be complex.
 Another side of my interests is traveling. You can find some articles and photos about my travels in blog.
 
 Also, you can *hire* me.
-
-You can [read][read_link] my CV.
-
-[read_link]: /about/my_cv/
 
 [^1]: From Ovid: "Adde parvum parvo magnus acervus erit," which means, "By adding little to little there will be a great heap." Which, I think, is applyed to modern programming. Where you just bring together different component and get something new. Some kind of transfortamion from quantity to a new level of quality.

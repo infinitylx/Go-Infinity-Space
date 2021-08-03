@@ -2,6 +2,7 @@
 title: "Curriculum Vitae"
 lang: en
 date: 2018-11-12T13:20:23
+draft: true
 ---
 
 My name is *Vladyslav Merezko*.
