@@ -42,4 +42,5 @@ params:
   latestpostcount: 5
   usesmallsummarycard: true
   postSection: blog
+  ColorTheme: rgb(49,140,231)
 

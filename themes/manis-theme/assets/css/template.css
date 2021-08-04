@@ -369,7 +369,7 @@ hr {
   margin-bottom: 1rem;
   margin-left:0;
   /*width: 24rem;*/
-  border-top: 2px solid {{ .Site.Params.ColorTheme }};
+  border-top: 1px solid {{ .Site.Params.ColorTheme }};
 }
 
 img {
