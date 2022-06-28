@@ -4,8 +4,6 @@ date: 2022-06-28T15:18:34+02:00
 tags: ["rtfm", "alpha-century"]
 ---
 
-# CLI Necessities 
-
 CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin developed the RUNCOM tool -- according to wiki) most cli tools didn't change much since. But there is modern alternatives to most used ones.
 
 **htop**
