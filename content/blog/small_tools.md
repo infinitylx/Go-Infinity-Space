@@ -1,7 +1,6 @@
 ---
 title: "Small Tools"
-date: 2022-03-23T15:18:34+02:00
-draft: true
+date: 2022-06-28T15:18:34+02:00
 tags: ["rtfm", "alpha-century"]
 ---
 
@@ -9,28 +8,50 @@ tags: ["rtfm", "alpha-century"]
 
 CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin developed the RUNCOM tool -- according to wiki) most cli tools didn't change much since. But there is modern alternatives to most used ones.
 
-EXA -- ls
+**htop**
+: Replacement for `top`.
 
-BAT -- cat 
+**[exa](https://the.exa.website/docs/command-line-options)**
+: Replacement for `ls` with more functions.
 
-LNAV -- log view
+**[bat](https://github.com/sharkdp/bat)**
+: Replacement for `cat`.
 
-RIPGREP RP -- grep 
+**[lnav](https://lnav.org)**
+: Log viewer with search and syntax highlight.
 
-theFuck 
+**[RIPGREP (RP)](https://github.com/BurntSushi/ripgrep)**
+: Replacement for `grep`.
 
-oh-my-zsh -- best shell
+**[theFuck](https://github.com/nvbn/thefuck)**
+: The Fuck is a magnificent app, inspired by a @liamosaur [tweet](https://twitter.com/liamosaur/status/506975850596536320), that corrects errors in previous console commands.
 
-doom-emacs -- emacs with human... vim face.
+**[oh-my-zsh](https://ohmyz.sh)**
+: Oh My Zsh is an open source, community-driven framework for managing your Zsh configuration.
 
-# UI Tools
+**[doom-emacs](https://github.com/doomemacs/)**
+: Emacs with human... vim face.
 
-Karabiner-elements
+**[fx](https://github.com/antonmedv/fx)**
+: Terminal JSON viewer.
 
-Rectangle
+**[jq](https://stedolan.github.io/jq/)**
+: jq is a lightweight and flexible command-line JSON processor.
 
-ThinkSync
+**[fd](https://github.com/sharkdp/fd)**
+: A simple, fast and user-friendly alternative to `find`.
 
-Bitwarder
+**[tldr](https://tldr.sh)**
+: The tldr pages are a community effort to simplify the beloved man pages with practical examples.
 
-PhotoSync
+**[broot](https://dystroy.org/broot/)**
+: Get an overview of a directory, even a big one.
+
+**[fzf](https://github.com/junegunn/fzf)**
+: fzf is a general-purpose command-line fuzzy finder.
+
+**[autojump](https://github.com/wting/autojump)**
+: Autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line.
+
+**[glow](https://github.com/charmbracelet/glow)**
+: Render markdown on the CLI, with pizzazz!
