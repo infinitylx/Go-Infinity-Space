@@ -53,3 +53,6 @@ CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin
 
 **[glow](https://github.com/charmbracelet/glow)**
 : Render markdown on the CLI, with pizzazz!
+
+**[lazydocker](https://github.com/jesseduffield/lazydocker)**
+: The lazier way to manage everything docker.
