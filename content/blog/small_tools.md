@@ -56,3 +56,9 @@ CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin
 
 **[lazydocker](https://github.com/jesseduffield/lazydocker)**
 : The lazier way to manage everything docker.
+
+**[lazygit](https://github.com/jesseduffield/lazydocker)**
+: The lazier git...
+
+**[gitui](https://github.com/extrawurst/gitui)**
+: Terminal UI (cli) for git.
