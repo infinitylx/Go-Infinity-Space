@@ -48,6 +48,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Install mantis
+        run: "git clone https://github.com/yursan9/manis-hugo-theme themes/manis-theme"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
