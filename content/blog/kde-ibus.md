@@ -1,3 +1,9 @@
+---
+title: "KDE no input in the interface."
+date: 2023-10-27T14:18:34+02:00
+tags: ["rtfm", "alpha-century"]
+---
+
 # KDE no input in the interface. 
 
 As it turns out this is all falt of the **ibus**. 
