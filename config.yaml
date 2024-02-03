@@ -9,7 +9,7 @@ layoutdir: layouts
 publishdir: public
 author: Vladyslav
 pluralizelisttitles: false
-Copyright: Copyright © 2012-2023 Infinitylx
+Copyright: Copyright © 2012-2024 Infinitylx
 
 permalinks:
   blog: 'blog/:slug/'
