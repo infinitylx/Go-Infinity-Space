@@ -62,3 +62,9 @@ CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin
 
 **[gitui](https://github.com/extrawurst/gitui)**
 : Terminal UI (cli) for git.
+
+**[dust](https://github.com/bootandy/dust)**
+: Simple du with ui.
+
+**[zellij](https://zellij.dev/)**
+: tmux/screen with more vim friendly ui.
