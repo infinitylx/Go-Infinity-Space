@@ -9,6 +9,9 @@ CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin
 **htop**
 : Replacement for `top`.
 
+**[btop](https://github.com/aristocratos/btop)**
+: A monitor of resources. Made with TUI.
+
 **[exa](https://the.exa.website/docs/command-line-options)**
 : Replacement for `ls` with more functions.
 
@@ -17,6 +20,9 @@ CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin
 
 **[lnav](https://lnav.org)**
 : Log viewer with search and syntax highlight.
+
+**[tailspin](https://github.com/bensadeh/tailspin)**
+: Log files highlighter. Like lnav but work out of the box with most of the logs.
 
 **[RIPGREP (RP)](https://github.com/BurntSushi/ripgrep)**
 : Replacement for `grep`.
@@ -42,6 +48,9 @@ CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin
 **[tldr](https://tldr.sh)**
 : The tldr pages are a community effort to simplify the beloved man pages with practical examples.
 
+**[navi](https://github.com/denisidoro/navi)**
+: An interactive cheatsheet tool for the command-line.
+
 **[broot](https://dystroy.org/broot/)**
 : Get an overview of a directory, even a big one.
 
@@ -60,11 +69,17 @@ CLI is knowen as early as 1964 (MIT Computation Center staff member Louis Pouzin
 **[lazygit](https://github.com/jesseduffield/lazydocker)**
 : The lazier git...
 
+**[lazyvim](https://www.lazyvim.org/)**
+: The LazyNeoVim. Like DoomEmacs but faster. Still getting into, as of now not ready to replace it.
+
 **[gitui](https://github.com/extrawurst/gitui)**
 : Terminal UI (cli) for git.
 
 **[dust](https://github.com/bootandy/dust)**
-: Simple du with ui.
+: Simple du with ui. Works out of the box!
 
 **[zellij](https://zellij.dev/)**
 : tmux/screen with more vim friendly ui.
+
+**[catppuccin](https://github.com/catppuccin/catppuccin)**
+:  😸 Soothing pastel theme for the high-spirited! Set it into all my linux env (nvim, emacs, kde, sublime_text, ...).
