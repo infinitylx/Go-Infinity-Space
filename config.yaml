@@ -43,4 +43,4 @@ params:
   usesmallsummarycard: true
   postSection: blog
   ColorTheme: rgb(49,140,231)
-
+  customCSS: ["/css/custom.css"]
